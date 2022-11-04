@@ -162,7 +162,7 @@ a {
     font-size: .85em;
 }
 
-@media (min-width:400px) and (max-width: 700px) {
+@media (min-width:320px) and (max-width: 700px) {
 
     *{
         box-sizing: border-box;
